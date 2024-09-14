@@ -30,12 +30,24 @@ Works across various systems, from Windows to Linux and beyond.
 python3 pingKushi.py -port PORT
 [-num NUM] [-timeout TIMEOUT] [-sleep SLEEP] [-loop] [-ipv4] [-ipv6] host
 
--port PORT: Specify the port to ping.
--num NUM: Number of ping attempts.
--timeout TIMEOUT: Set a timeout for each attempt.
--sleep SLEEP: Time between each ping.
--loop: Keep pinging until manually stopped.
--ipv4 / -ipv6: Choose between IPv4 or IPv6.
+-port PORT: 
+Specify the port to ping.
+
+-num NUM:
+Number of ping attempts.
+
+-timeout TIMEOUT:
+Set a timeout for each attempt.
+
+-sleep SLEEP:
+Time between each ping.
+
+-loop:
+Keep pinging until manually stopped.
+
+-ipv4 / -ipv6:
+Choose between IPv4 or IPv6.
+
 Stay ahead of the game! 📈 
 Ensure your network's health by identifying open or blocked ports with ease! 🔐
 
