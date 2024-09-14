@@ -1,6 +1,9 @@
 # PingPort
 TCP ping Port scanning Network monitoring Port check TCP connection Ping utility Port status Latency test Connection timeout IPv4/IPv6 ping Network diagnostics Ping loop Server reachability Firewall check Host status check
 
+
+MY DISCORD: https://discord.gg/Gf492Q8g
+
 🚀 SuperFast Port Pinger 🌐
 
 Unleash the power of TCP port pinging with SuperFast Port Pinger! 🎯 Whether you're a network admin 👨‍💻 or a tech enthusiast 👩‍💻, this tool is your go-to solution for fast, accurate, and reliable port checks. 🛠️
@@ -24,3 +27,4 @@ python3 pingKushi.py -port PORT [-num NUM] [-timeout TIMEOUT] [-sleep SLEEP] [-l
 -ipv4 / -ipv6: Choose between IPv4 or IPv6.
 Stay ahead of the game! 📈 Ensure your network's health by identifying open or blocked ports with ease! 🔐
 
+MY DISCORD: https://discord.gg/Gf492Q8g
