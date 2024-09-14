@@ -16,8 +16,6 @@ Unleash the power of TCP port pinging with SuperFast Port Pinger! 🎯 Whether y
 🌐 Multi-Platform – Works across various systems, from Windows to Linux and beyond.
 🧑‍💻 Built with Python 🐍 for simplicity and power! To get started, simply run:
 
-bash
-Copier le code
 python3 pingKushi.py -port PORT [-num NUM] [-timeout TIMEOUT] [-sleep SLEEP] [-loop] [-ipv4] [-ipv6] host
 -port PORT: Specify the port to ping.
 -num NUM: Number of ping attempts.
